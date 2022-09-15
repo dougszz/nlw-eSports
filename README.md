@@ -6,7 +6,7 @@
  
 Projeto construido no evento Next Level Week da Rocketseat.
 
-[Clique aqui aqui para acessar](https://dougszz.github.io/nlw-eSports/)
+[Clique aqui para acessar](https://dougszz.github.io/nlw-eSports/)
 
 ## Tecnologias
 
