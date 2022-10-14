@@ -19,7 +19,7 @@ ul {
 }
 
 
-htm, body {
+html, body {
     background-image: url(./assets/cb.gif);
     background-position: top center;
     background-size: 100% auto;
